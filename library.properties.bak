@@ -1,10 +1,10 @@
 name=PCAL6416A
-version=0.1.0
+version=1.0.0
 author=BenKrug
 maintainer=BenKrug <benjamimkrug@gmail.com>
 sentence=Arduino library for the Texas Instruments PCAL6416A 16-bit I2C I/O expander.
 paragraph=The PCAL6416A provides general-purpose remote I/O expansion for most microcontroller families via the I2C interface serial clock (SCL) and serial data (SDA).
 category=Signal Input/Output
-url=https://github.com/BenjamimKrug/PCAL6416A
+url=sirros.net
 architectures=*
 includes=PCAL6416A.h
