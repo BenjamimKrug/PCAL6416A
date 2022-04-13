@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For PCAL6416A
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PCAL6416A	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+digitalRead	KEYWORD2
+digitalWrite	KEYWORD2
+getAddress	KEYWORD2
+getPorts	KEYWORD2
+enableBitwiseInversion	KEYWORD2
+disableBitwiseInversion	KEYWORD2
+isInverted	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TWI_SUCCESS	LITERAL1
+TWI_DEVICE_NACK	LITERAL1
+TWI_DATA_NACK	LITERAL1
+TWI_ERROR	LITERAL1
+P00	LITERAL1
+P01	LITERAL1
+P02	LITERAL1
+P03	LITERAL1
+P04	LITERAL1
+P05	LITERAL1
+P06	LITERAL1
+P07	LITERAL1
+P10	LITERAL1
+P11	LITERAL1
+P12	LITERAL1
+P13	LITERAL1
+P14	LITERAL1
+P15	LITERAL1
+P16	LITERAL1
+P17	LITERAL1
